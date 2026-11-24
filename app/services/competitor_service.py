@@ -1,0 +1,1 @@
+COMPETITOR_RULES = "Competitors are unverified AI suggestions, not researched facts. Suggest three only if plausible; otherwise fewer. Mark every competitor AI suggestion - unverified. Qualify strengths and weaknesses as hypotheses, not facts."
